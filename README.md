@@ -1,6 +1,6 @@
 ### READ ME FIRST ###
 
-This OSF page contains Matlab code to implement the time-varying cognitive models developed in:
+This github page contains Matlab code to implement the time-varying cognitive models developed in:
 
 Gunawan et al. Time-evolving psychological processes over repeated decisions.
 
